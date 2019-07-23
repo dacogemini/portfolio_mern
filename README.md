@@ -6,8 +6,7 @@ This portfolio showcases my skills as a developer.
 
 ### Client-Side
   ![SASS Icon](https://lh3.googleusercontent.com/TVL4GHH76fOf0KBk5piMOCHkzzWDcNvltWMTJv7jTP4RJJyZ-k2dnFiYyoln_-xY-_KtVkiaN2TltwkcT-LEoRvi69aTj6H48lq4JDszDohXrK5ltjGSqLtqrxS6pq9mnudnGo86Kw=w100 "SASS") 
-  ![React Icon](https://lh3.googleusercontent.com/WWKQOaHmqJC_PeJ6i24XdH-SyOaXYYEphKdfXTkQh3EUGn6CHIm6rf1hsMHk_mLwxHvByf_1GaC8GAaiwicr8bHHvICKIONqSn0vfM-rYnHiKZsm1oExAI2MAToBP7VVUoGHWkXKHQ=w90 "REACT")
-  ![Redux Icon](https://lh3.googleusercontent.com/zPUh6LISVWeahiIVKq5GtQfHavki8vJv0YA5F8IFQOhax8jAlxOgW6efIQHewSgrAXPENKCiTwThRQGd_1l_GNLchbYMkVCwk4CsX4Z1PuvfzLapa7ALkT4iGPGMjaCmDmXXr-fs9Q=w60 "REDUX")  
+  ![React Icon](https://lh3.googleusercontent.com/VdPyVVFn4J5D3xwI5cMLpUooKuETowUruJAIPnj3pSuxp40HB4AN0up2hJM2d8i1h4TqwBH8D-3DjKDkDn2uhGWosKJhE5PjJIH_QcuB9KurOil8ZjrsS4NiI_eSH13WAHGmoikeag=w100 "REACT")
 
 ### Server-Side
   ![node](https://lh3.googleusercontent.com/aRC8_xie2Cd7QQ7gYGLznUovRcqgP9DsZcccMYQnDQBpWXd_gxYWMHtc5LUS3Rhd4qcL9g0N_nzazKDvvEkkMkLzQy0RA06ESk9v1di3B5uTSwybnltRnsKjyvbzoRygqi989FzrUg=w100 "NODE") 

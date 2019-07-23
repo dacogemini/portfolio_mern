@@ -14,4 +14,4 @@ This portfolio showcases my skills as a developer.
   - Express
   - MongoDB Atlas
   - JSON Web-Token
-  - bcrypt
+  ![bcrypt](https://lh3.googleusercontent.com/sKHsQZrrPeiMBiXWu_VfoUR5IiMRvoXSKowFraKH7xLhSSpMUQarZn8U-l5ToJQGt0hIr9gr24veDbfGYWCgp1UlzSPlPtTJ2rfbtFdJ3BhjegVsOL6Gd5UF3SsuRmYzekmcxJlqyg=w50 "BCRYPT") 

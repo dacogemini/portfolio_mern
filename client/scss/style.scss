@@ -20,8 +20,10 @@ body {
 }
 
 .x-large {
-    font-family: 'Raleway', sans-serif;
-    font-size: 2rem;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 2.3rem;
+    letter-spacing: 0.5rem;
+    color: $dark-color;
 }
 
 a {
@@ -38,6 +40,10 @@ img {
     width: 100%;
 }
 
+.buttons {
+    font-size: 1.2rem;
+}
+
 // Navbar
 .navbar {
     background-color: #232323;
@@ -45,7 +51,7 @@ img {
     align-items: center;
     // Sets available space between flex items
     justify-content: space-between;
-    padding: 0.7rem 2rem;
+    padding: 0.7rem 10rem;
     position: fixed;
     // Always appears on top
     z-index: 1;
@@ -56,7 +62,7 @@ img {
     // Makes links horizontal
     ul {
         display: flex;
-    }
+}
 
     a {
         color: #fff;
@@ -90,6 +96,6 @@ img {
         align-items: center;
         justify-content: center;
         text-align: center;
-        opacity: 0.4;
+        opacity: 0.8;
     }
 }

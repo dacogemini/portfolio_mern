@@ -11,8 +11,8 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
-    background-color: #fff;
-    color: #333;
+    background-color: #232323;
+    color: whitesmoke;
 }
 
 .brand-text {
@@ -75,6 +75,10 @@ img {
     }
 }
 
+.large {
+    color: $primary-color;
+}
+
 .social {
 
     a {
@@ -105,10 +109,10 @@ img {
         flex-direction: column;
         width: 80%;
         margin: auto;
-        padding: 2rem;
+        padding: 1rem;
         align-items: center;
         justify-content: center;
         text-align: center;
-        opacity: 0.8;
+        opacity: 0.5;
     }
 }
